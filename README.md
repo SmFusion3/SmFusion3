@@ -134,14 +134,6 @@ I work on a variety of projects ranging from frontend experiments to complete re
 
 ---
 
-🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SmFusion3&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-
-</p>
-
 📈 Contribution Journey
 
 <p align="center">
@@ -163,25 +155,7 @@ I work on a variety of projects ranging from frontend experiments to complete re
 🚀 Build more real-world products
 ```
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SmFusion3&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-
-</p>
-
----
-
-# 📈 Contribution Journey
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmFusion3&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
-
-</p>
-
----
 
 # ✍️ Developer Quote
 
