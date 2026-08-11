@@ -163,20 +163,42 @@ I work on a variety of projects ranging from frontend experiments to complete re
 🚀 Build more real-world products
 ```
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SmFusion3&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+
+</p>
+
 ---
 
-✍️ Developer Quote
+# 📈 Contribution Journey
 
-"I don't try to learn everything at once. I practice, build, make mistakes, understand what went wrong, and improve — one project at a time."
+<p align="center">
 
-💻 My Development Mindset
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmFusion3&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
+
+</p>
+
+---
+
+# ✍️ Developer Quote
+
+> **"I don't try to learn everything at once. I practice, build, make mistakes, understand what went wrong, and improve — one project at a time."**
+
+### 💻 My Development Mindset
+
+```text
 Learn → Practice → Build → Break → Debug → Understand → Improve → Repeat 🚀
+```
 
-I believe the best way to learn development is by building real projects.
+I believe the best way to learn development is by **building real projects**.
 
-Every project gives me an opportunity to practice what I study, solve new problems, understand how things work, and become a better developer
+Every project gives me an opportunity to practice what I study, solve new problems, understand how things work, and become a better developer.
 
-# 🌐 Let's Connect
+---
+
 
 <p align="center">
 
