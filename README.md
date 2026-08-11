@@ -165,15 +165,16 @@ I work on a variety of projects ranging from frontend experiments to complete re
 
 ---
 
-# ✍️ Developer Quote
+✍️ Developer Quote
 
-<p align="center">
+"I don't try to learn everything at once. I practice, build, make mistakes, understand what went wrong, and improve — one project at a time."
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
+💻 My Development Mindset
+Learn → Practice → Build → Break → Debug → Understand → Improve → Repeat 🚀
 
-</p>
+I believe the best way to learn development is by building real projects.
 
----
+Every project gives me an opportunity to practice what I study, solve new problems, understand how things work, and become a better developer
 
 # 🌐 Let's Connect
 
