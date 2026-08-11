@@ -173,9 +173,9 @@ A user-friendly business application focused on responsive layouts, interactive 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SmFusion3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api?username=SmFusion3&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmFusion3&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SmFusion3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170"/>
 
 </p>
 
@@ -185,30 +185,19 @@ A user-friendly business application focused on responsive layouts, interactive 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=SmFusion3&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=SmFusion3&theme=dark&hide_border=false"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SmFusion3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
-
-</p>
-
----
-
-# 📈 Contribution Journey
+📈 Contribution Journey
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmFusion3&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
 
 </p>
-
 ---
 
 # 🌱 Currently Learning
